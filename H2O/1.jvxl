@@ -1,0 +1,45 @@
+<?xml version="1.0"?>
+<jvxl version="2.3" jmolVersion="Jmol 14.29.54  2019-10-09 17:42" xmlns="http://jmol.org/jvxl_schema" xmlns:cml="http://www.xml-cml.org/schema">
+<jvxlFileTitle>
+Vasp CHGCAR format
+
+
+</jvxlFileTitle>
+<jvxlVolumeData origin="{0.0 0.0 0.0}">
+<jvxlVolumeVector type="0" count="141" vector="{0.0 0.0 0.071428575}"></jvxlVolumeVector>
+<jvxlVolumeVector type="1" count="141" vector="{0.0 0.071428575 0.0}"></jvxlVolumeVector>
+<jvxlVolumeVector type="2" count="141" vector="{0.071428575 0.0 0.0}"></jvxlVolumeVector>
+</jvxlVolumeData>
+<jvxlSurfaceSet count="1">
+<jvxlSurface type="isosurface">
+<jvxlSurfaceInfo 
+  isModelConnected="false" 
+  cutoff="0.5" 
+  isCutoffAbsolute="false" 
+  pointsPerAngstrom="13.999999" 
+  nBytesData="6447" 
+  isXLowToHigh="true" 
+  nSurfaceInts="1230" 
+  nBytesUncompressedEdgeData="3337" 
+  color="[x5020a0]" 
+  translucency="0.0" 
+  rendering="fill noMesh noDots notFrontOnly frontlit" 
+  insideOut="true" 
+  note="progressive JVXL+ -- X values read from low(0) to high(140)" 
+  xyzMin="{4.1212683 3.8733182 4.305285}" 
+  xyzMax="{5.878732 6.1266823 6.1581182}" 
+  approximateCompressionRatio="7151:1" 
+  jmolVersion="Jmol 14.29.54  2019-10-09 17:42">
+</jvxlSurfaceInfo>
+<jvxlIsosurfaceState>
+  isosurface ID "isosurface1" select ({0:2})  /*file*/"/home/doudu/notebooks/visualizer/jmol/H2O/./CHGCAR" color [x0000ff];
+  isosurface ID "isosurface1" fill noMesh noDots notFrontOnly frontlit;
+  color isosurface opaque [x5020a0];
+</jvxlIsosurfaceState>
+<jvxlSurfaceData>
+<jvxlEdgeData count="3337" encoding="base90f1" bsEncoding="base90+35c" isXLowToHigh="true" data="#$|4s#|{>;qYQY>qdj]GAG]5'#|VA;AV'||T{XE?EXT$ecOIOc:=s`Y`sbOOsmsOPR7RMOshmMsPP=s`Y`PsbecOIOc:{XE?EX$K#|VA;AVK||xj]GAG]x5;qYQYqda$|s|a{|k|4=nXQcHXQ4nbIFc88IcY$#|>>$||F`**`YWTTH!R##RCWX**XHKb77bT8pE**Epg#|T9+~%0 +9T##g`G848G`8UhPB>BPhJJmVHDHVmUGoWJFJWoXJmVHDHVmUUhPB>BPhJg`G848G`8|T9+~%0 +9T#|8pE**E|pgKb77bTWX**XH!R##RCWTTHF`**`Y#|>>||{Fc88c{YV=nQHQnVbkG~;0 Gk5DgRE[:RE5g[[cF[F~;0 _QM_MN'%z'zzFVVYZDDEd==;h>>7gCC8cKK~;0 _R##R@]V**VB!Y00YC!Z22ZC![33[C!Z22ZC!Y00YC]V**VB_R##R@cKK~;0 gCC8h>>7d==;ZDDEFVVY%zzzxQMMxN@cFF@~;0 DDgE:EgD[jMDMj,Bl5!,l]AMOmmAORTS?T?LA8^A^gf97+q7qtDPP[T??K_88@g668m772t77+{66$_'x55_xx,t44ts.s44sq,t44ts'x55xx@{66@$t77+m772g668_88@T??KDPP[+qqthfh98^^g^S??^LKMOOKR^2Bl!l2]^sjs6MLOWO6LR((rgg(rw%%x%xze:K9SKSf]Bv)_3c_clFKKYW~;1 Hf229t**+~;0 'x$$~;0 xx2mmm:ffe~;0 ccc:ffe2mmm'x$$xxct**c+f229W~;1 HFKKY3ccl@v@)]B9SSfTeT:%xxzz(rrzww8MLL8RwiPHPiIv_f_I)AGyyAXFCF!~%0 %u~%0 uzYF$#z$z|G11Xc~;0 z%s:[s[eR@@Mf--9v)N*tNtu3jjl6ffi3jjl*ttuQvQ)f--9R@@M:[[e,z,%c~;0 G11X#zz|{Y{F%uuzyCy!YGYX^~%0 v~%0 )^V@9@V$$hLbhbL$h{HPHORORP>7>hm2Z@Z_g8?/b?bpQ''No0M1fMfnLCCS`++?n1w(y~%0 w(n1`++?LCCS1ffnRoR0Q''N/bbp`g`8@_EmE27haOaPMPMOW$hhW{{S=7=S{,BjX^XB5,@Iuu@VOOOPC=Cbw(sSsL$$y$y{QNw(mD?m?[d;($z(z{=RRbN99QX,,G[''DX,,GN99Q=RRb$zz{wdw;D??[2w2(QN$yy{{S{L,w,(=b!O!PPIPV_*,j*5,_]GAG]*5AHA*j,/bb,p?A?^;8;gz%y^yAG9Gfk4X@4X4_i6I3ZIZlSLj5y~%0 Z*oZou-hhr*oouEyE~%0 j5SL3ZZlViV6@44_GkG49fX^XA~%0 z~%0 %8gdAd^`/`ps=5=jsu^W^u7q%?`q7>C[fxxfCD>%%ii%z***uw(vcv~;0 WHWW~%0 %s~%0 sz!C7._7_qWHt+!4T!TkG++XQNUJQNG++X4TTkCtC+WH.__qh!hC%sszyHyWHcH~;0 )w)(*uu%uzz6>[6D>z!97'q?'`q97!z(k>hRYR>7k)GWuuGH)>bmb2>nnn1ldl;]R]M?7?ho0cGcXo0U7@U@hQNc~;0 m2p/m2c~;0 QN7@@hJoJ0GX~;0 o~;0 07h`R`MBdB;3n311>m12>=)W=H)X*kh*7kXaMF(MaX##)#|XtMullM*tBLyyBSW]WB`_`@!V!IKBK]|#{X{G)~%0 n)nyKTe:u*3%s3sz)ccv%sszlul*e:KT~%0 nnyvXvG$|$#B]TVTIC_C@?]?BHLHS]~%0 tu~%0 *t]R3X#3|XR|v|#/#x?vQWQ?)xtUx{{U't>Ezz>ZPTPKVSVLMEMZ,).,.va>@2@mWHp/5'b5bx4k8g4k'bbxjpj/WH2m_a_>)..vsEsZRSRLITIKOEOZa%tx%'taJ$xv$)xJ`N#H/N#`Zy~%0 ^AyZ/;Um{{mU/d##]]#|=B=]JJJUFAF^+)+vc~;0 F5Fj[Dt+L-Lr:e>a:e-rStS+[D5jYcY~;0 )vtAt^YJYUUBU]b#b||B;Bd|pJ2Z$y^$Ay2ZJpy*A-=FTYTF-bA$?Rhh?M$%~%0 ee%y787g646k!z%!x!xC;0;oWHq.?*?u7h;d7h*u`q`.WH0od!dC'!z'%!4ki8igh~%0 hyz:$R:M$z`7A=7bA`rYKF*KYr:o*S/*Lo:kGodwwdG0k+I[wwID+fgvg)fhwxw'hxjx5aNaQr{$ryKyTg8Xy~%0 X^,^s0o,sAXyA~%0 Xg8KT~%0 r{~%0 $rNQ>j>5'hx''h(fv()f8+[8D+V(ko(0kVX;:(oS(Lo;:Xupu3=3u?tT`d`T?+u%~%0 WzzW%yGPGOX[XDXPXO=5=jh7K6KiUJi6Kt+K_w(_Kt+Ki6UJ6iThT75jbPbOG[GDGPGOX~%0 XyzH%ut%+uHz`K?3;=?3K`^)~;0 6:6)c^(.8VppV.g(p[t[+p..ww.q*)*vQm2QcJcUYr-Y!8!gOP!C`?!COP8gCYrC-YJU~;0 Qm~;0 2Q)vu.uqq(pt(+pqD(8Dg(qI/^~;0 /c^Iqvieiv.GOG.8%)EYdhdYE%v8*-!!*r6HPHO6.USUL.JBJ]ty~%0 ttMtRSm2S7(7w7h~;0 c7h(whSmh2SMR+ty+~%0 tB]U.SUL.J6PJO6W-WruC8)Cv8uzZF.;G7O;GF.Zz'[|0y40~%0 |['.#$Mj||jM#{.ZM]MBZfele3fSkbk=SVFVYlt+ld>da-WH-Jd;JSi6SJd;J-WH->a;lt;+lFYISbI=S4fl43f:Z]:BZR.$R{.|R'5[#|y#~%0 |5[R'|oko6=6#_,;CPTPC,d_#Z>Ohh>PZraqa.rpsqs.pRo]oBRC5CjK!CKpt+pG)Gv/p)vXptX+pK!CK5j!R]!BR0pq0.p,rq,.r>ZO>PZa#7_;7d_a#s!O6K=O6!s.L!a!L.Ct>fUcgcU>9tCeGYttGFeockc4oak`k?a9Q@Q_9gj5g>,>s+>a+3C!3+>a+,sagja5g9@_9Na`N?a4ok44o~;0 eY~;0 FeXC+tf+9tXCa.JL~;0 !8a~;0 !JLa.?YglgY?Fr=^WfkfW=ArFZ:Boo:]ZXJIJVX?:3:l?hd;h,6*6u,@>a@FD[F@>a@,*u,ihdi;h?3l?eXIeVXUZBU]ZeF0r^0AreFb?HY9g4l9gHYb?:R_c_R:5_{AwSYSA({_5=oL[{{LDo=0l`]`Bl0WP@P_W)og8o);$#$|;A+tA;#|;){og{8o)W@_W0Ol]OBl0=?o[?Do=5S_${w$({S_5:^RL_FcL_^R:9FJF9~;0 Zmx{xmZ~;0 Cg,0XqyqX,ogC5d;9;fd5Oyr-yO#]`7`h]#(bA^b(#]7h]#O?yr?-yO5d9fd5Cdg0dogC~;0 sZGm.x~%0 {.xGmsZ~;0 9FJF9'=IMI=',J!gjg!J,E_py|yp_E-Rk{cm|c2{kR-2WoS.SqoW2-RkL{mL2{kR-E_p~;0 y#|~;0 yp_E,J!gjg!J,'=IMI='-1-%262%-1-">
+-}Se_$ ~%0 }R$ (}Q$ (}P$ *}P$ (}Q$ (}Q$ (}R$ ~%0 }!2 ~%0 }R$ (}Q$ (}Q$ (}P$ *}P$ (}Q$ (}R$ ~%0 }a$% (}P$ *}N$ ,}M$ ,}M$ ,}M$ ,}M$ ,}M$ ,}M$ ,}N$ *}O$ *}O$ *}O$ *}O$ *}O$ *}O$ *}O$ *}O$ *}N$ ,}M$ ,}M$ ,}M$ ,}M$ ,}M$ ,}M$ ,}N$ *}P$ (}T{$ (}P$ *}N$ ,}L$ .}K$ .}K$ .}K$ .}K$ .}K$ .}K$ .}K$ .}K$ .}K$ .}K$ .}K$ .}K$ .}K$ .}K$ .}K$ .}K$ .}K$ .}K$ .}K$ .}K$ .}K$ .}K$ .}L$ ,}N$ *}P$ (}Ix$ ~%0 }Q$ *}N$ ,}L$ .}K$ .}J$ 0}I$ 0}I$ 0}I$ 0}I$ 0}I$ 0}I$ 0}I$ 0}H$ 2}G$ 2}G$ 2}G$ 2}G$ 2}H$ 0}I$ 0}I$ 0}I$ 0}I$ 0}I$ 0}I$ 0}I$ 0}J$ .}K$ .}L$ ,}N$ *}Q$ ~%0 }pv$ (}O$ ,}L$ .}K$ .}J$ 0}I$ 0}I$ 0}H$ 2}G$ 2}G$ 2}G$ 2}G$ 2}F$ 4}E$ 4}E$ 4}E$ 4}E$ 4}E$ 4}E$ 4}F$ 2}G$ 2}G$ 2}G$ 2}G$ 2}H$ 0}I$ 0}I$ 0}J$ .}K$ .}L$ ,}O$ (}ov$ (}O$ ,}L$ .}J$ 0}I$ 0}H$ 2}G$ 2}G$ 2}G$ 2}F$ 4}E$ 4}E$ 4}E$ 4}D$ 6}C$ 6}C$ 6}C$ 6}C$ 6}D$ 4}E$ 4}E$ 4}E$ 4}F$ 2}G$ 2}G$ 2}G$ 2}H$ 0}I$ 0}J$ .}L$ ,}O$ (}nv$ *}N$ ,}L$ .}J$ 0}I$ 0}H$ 2}G$ 2}F$ 4}E$ 4}E$ 4}D$ 6}C$ 6}C$ 6}C$ 6}C$ 6}C$ 6}C$ 6}C$ 6}C$ 6}C$ 6}C$ 6}D$ 4}E$ 4}E$ 4}F$ 2}G$ 2}H$ 0}I$ 0}J$ .}L$ ,}N$ *}nv$ (}O$ ,}L$ .}J$ 0}I$ 0}H$ 2}F$ 4}E$ 4}E$ 4}D$ 6}C$ 6}B$ 8}A$ 8}A$ 8}A$ 8}A$ 8}A$ 8}A$ 8}A$ 8}A$ 8}B$ 6}C$ 6}D$ 4}E$ 4}E$ 4}F$ 2}H$ 0}I$ 0}J$ .}L$ ,}O$ (}ov$ (}O$ ,}L$ .}J$ 0}I$ 0}H$ 2}F$ 4}E$ 4}D$ 6}C$ 6}B$ 8}A$ 8}A$ 8}A$ 8}@$ :}?$ :}?$ :}@$ 8}A$ 8}A$ 8}A$ 8}B$ 6}C$ 6}D$ 4}E$ 4}F$ 2}H$ 0}I$ 0}J$ .}L$ ,}O$ (}qv$ $}R$ *}M$ .}J$ 0}I$ 0}H$ 2}F$ 4}D$ 6}C$ 6}B$ 8}A$ 8}A$ 8}@$ :}?$ :}?$ :}?$ :}?$ :}?$ :}?$ :}@$ 8}A$ 8}A$ 8}B$ 6}C$ 6}D$ 4}F$ 2}H$ 0}I$ 0}J$ .}M$ *}R$ $}Jx$ (}O$ ,}L$ .}J$ 0}H$ 2}F$ 4}D$ 6}C$ 6}B$ 8}A$ 8}@$ :}?$ :}?$ :}?$ :}?$ :}?$ :}?$ :}?$ :}?$ :}@$ 8}A$ 8}B$ 6}C$ 6}D$ 4}F$ 2}H$ 0}J$ .}L$ ,}O$ (}|y$ ~%0 }Q$ *}M$ .}J$ 0}H$ 2}F$ 4}D$ 6}C$ 6}B$ 8}@$ :}?$ :}?$ :}?$ :}>$ ~;0 }=$ ~;0 }=$ ~;0 }>$ :}?$ :}?$ :}?$ :}@$ 8}B$ 6}C$ 6}D$ 4}F$ 2}H$ 0}J$ .}M$ *}Q$ ~%0 }U{$ (}O$ ,}K$ 0}H$ 2}F$ 4}D$ 6}B$ 8}A$ 8}@$ :}?$ :}?$ :}>$ ~;0 }=$ ~;0 }=$ ~;0 }=$ ~;0 }=$ ~;0 }>$ :}?$ :}?$ :}@$ 8}A$ 8}B$ 6}D$ 4}F$ 2}H$ 0}K$ ,}O$ (}/#% $}Q$ ,}K$ 0}H$ 2}F$ 4}D$ 6}B$ 8}A$ 8}@$ :}?$ :}?$ :}>$ ~;0 }=$ ~;0 }=$ ~;0 }=$ ~;0 }=$ ~;0 }>$ :}?$ :}?$ :}@$ 8}A$ 8}B$ 6}D$ 4}F$ 2}H$ 0}K$ ,}Q$ $}a$% *}M$ .}I$ 2}F$ 4}D$ 6}C$ 6}B$ 8}@$ :}?$ :}?$ :}>$ ~;0 }=$ ~;0 }=$ ~;0 }=$ ~;0 }=$ ~;0 }>$ :}?$ :}?$ :}@$ 8}B$ 6}C$ 6}D$ 4}F$ 2}I$ .}M$ *}9~%0 % ~%0 }P$ ,}K$ 0}H$ 2}F$ 4}D$ 6}B$ 8}A$ 8}@$ :}?$ :}?$ :}>$ ~;0 }=$ ~;0 }=$ ~;0 }>$ :}?$ :}?$ :}@$ 8}A$ 8}B$ 6}D$ 4}F$ 2}H$ 0}K$ ,}P$ ~%0 }l'% *}L$ 0}H$ 2}F$ 4}D$ 6}B$ 8}A$ 8}@$ :}?$ :}?$ :}?$ :}?$ :}?$ :}?$ :}?$ :}?$ :}@$ 8}A$ 8}B$ 6}D$ 4}F$ 2}H$ 0}L$ *}D)% (}N$ .}J$ 0}G$ 4}D$ 6}C$ 6}B$ 8}A$ 8}@$ :}?$ :}?$ :}?$ :}?$ :}?$ :}?$ :}@$ 8}A$ 8}B$ 6}C$ 6}D$ 4}G$ 0}J$ .}N$ (}v*% ,}K$ 0}H$ 2}F$ 4}D$ 6}C$ 6}B$ 8}A$ 8}@$ :}?$ :}?$ :}?$ :}?$ :}@$ 8}A$ 8}B$ 6}C$ 6}D$ 4}F$ 2}H$ 0}K$ ,}P,% ~%0 }O$ .}J$ 0}H$ 2}F$ 4}D$ 6}C$ 6}B$ 8}A$ 8}A$ 8}A$ 8}A$ 8}A$ 8}A$ 8}B$ 6}C$ 6}D$ 4}F$ 2}H$ 0}J$ .}O$ ~%0 }*.% *}M$ .}J$ 0}H$ 2}F$ 4}D$ 6}C$ 6}C$ 6}B$ 8}A$ 8}A$ 8}B$ 6}C$ 6}C$ 6}D$ 4}F$ 2}H$ 0}J$ .}M$ *}41% *}M$ .}J$ 0}H$ 2}F$ 4}E$ 4}D$ 6}C$ 6}C$ 6}C$ 6}C$ 6}D$ 4}E$ 4}F$ 2}H$ 0}J$ .}M$ *}@4% *}M$ .}J$ 0}H$ 2}G$ 2}F$ 4}E$ 4}E$ 4}E$ 4}E$ 4}F$ 2}G$ 2}H$ 0}J$ .}M$ *}M7% (}O$ ,}L$ .}J$ 0}I$ 0}H$ 2}G$ 2}G$ 2}H$ 0}I$ 0}J$ .}L$ ,}O$ (}2~;0 % *}N$ ,}M$ ,}L$ .}K$ .}K$ .}L$ ,}M$ ,}N$ *}$D% ~%0 }R$ (}R$ ~%0 }MfN$ </jvxlEdgeData>
+</jvxlSurfaceData>
+</jvxlSurface>
+</jvxlSurfaceSet>
+</jvxl>
