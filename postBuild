@@ -25,7 +25,7 @@ jupyter nbextension install --py --symlink --sys-prefix jmolwidgets
 jupyter nbextension enable --py --sys-prefix jmolwidgets
 
 cd  ..
-git clone https://github.com/dou-du/osscar-labextensions.git
+git clone --branch jmol https://github.com/dou-du/osscar-labextensions.git
 cd  osscar-labextensions
 jlpm
 jlpm run build
