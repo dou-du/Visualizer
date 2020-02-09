@@ -18,7 +18,7 @@ jupyter nbextension enable --py --sys-prefix nglview
 git clone https://github.com/dou-du/jmolwidgets.git
 cd  jmolwidgets
 jlpm
-jlpm run Build
+jlpm run build
 jupyter labextension install .
 pip install -e .
 jupyter nbextension install --py --symlink --sys-prefix jmolwidgets
