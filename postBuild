@@ -31,4 +31,8 @@ jlpm
 jlpm run build
 jupyter labextension install .
 
-
+cd ..
+git clone https://github.com/arose/nglview
+cd nglview
+python setup.py install
+jupyter labextension install js 
